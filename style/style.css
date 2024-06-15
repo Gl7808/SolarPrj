@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+:root{
+    --main-color-bg: #1F1F1F;
+
+    --text-color-main: #FFFFFF;
+    --text-color-sub-1: #525252;
+    --text-color-sub-2: #7A7A7A;
+    --text-color-sub-3: #CCCCCC;
+
+    --accent-color-1: #85FD33;
+    --accent-color-2: #FF0059;
+    --accent-color-3: #8E3FFC;
+    --accent-color-4: #FCF626;
+}
+
+body{
+    background-color: var(--main-color-bg);
+}
